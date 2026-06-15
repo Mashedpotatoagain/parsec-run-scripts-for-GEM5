@@ -51,7 +51,7 @@ echo "Done :D"
 | simsmall  | Small workload       |
 | simmedium | Medium workload      |
 | simlarge  | Large workload       |
-| native    | Full native workload |
+
 
 ````
 
