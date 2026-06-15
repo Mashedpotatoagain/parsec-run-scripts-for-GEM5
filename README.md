@@ -100,6 +100,5 @@ parsecmgmt -a clean
 
 ---
 
-# Author
-
-Moawapang Imsong
+# Details on parsec-benchmarks
+https://dl.acm.org/doi/10.1145/1454115.1454128
